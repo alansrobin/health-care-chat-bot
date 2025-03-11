@@ -11,9 +11,11 @@ Virtual conferences have become an indispensable tool for healthcare professiona
 
 # how to run
 * vscode
- * install vscode from the internet
-* installing libraries
- * install the libraries from requirement.txt
+  * install vscode from the internet
+   
+* Libraries
+  * install the libraries from requirement.txt
+   
 * run the project 
   * Run the project by typing: streamlit run app.py
  #  
