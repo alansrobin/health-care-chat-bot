@@ -12,12 +12,11 @@ Virtual conferences have become an indispensable tool for healthcare professiona
 # how to run
 * vscode
   * install vscode from the internet
-*Keys
+* Keys
   * Instead of "your-gemini-api-key" and "your-project-key.json", use your api key and project key
   * (due to security reasons i cann't use mine)
 * Libraries
   * install the libraries from requirement.txt
-   
 * run the project 
   * Run the project by typing: streamlit run app.py
  #  
