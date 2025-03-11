@@ -15,5 +15,6 @@ Virtual conferences have become an indispensable tool for healthcare professiona
 * Run it from app.py
 * install the libraries from requirement.txt
 * * run the project **
-  * Run the project by typing:streamlit 
-* 
+  * Run the project by typing: streamlit run app.py
+ #  
+ the app is now live
